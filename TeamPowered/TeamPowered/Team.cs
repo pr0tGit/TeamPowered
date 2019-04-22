@@ -8,5 +8,6 @@ namespace TeamPowered
 {
     class Team
     {
+        public List<Person> People { get; set; }
     }
 }
